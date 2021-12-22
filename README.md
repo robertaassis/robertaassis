@@ -1,16 +1,18 @@
-### Hi there 👋
+### Fala galera! Sou o Ben 👋
 
+## Sou desenvolvedor fullstack!!
+- 👨‍💻 Pronome: Ela/Dela
+- 🎓 Estou terminando a graduação em Ciência da Computação na UFG.
+- 💻 Eterno aprendiz das tecnologias.
+- 🥰 Eu amo cachorros 🐕
+- 💬 Pergunte-me sobre qualquer coisa
 
-**robertaassis/robertaassis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Fale comigo no linkedin!!
+[<img align="left" alt="Ben | LinkedIn" width="22px" src="linkedin.png" />][linkedin]
+<br />
+<br />
+<img height="140em" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api?username=robertaassis&count_private=true&theme=radical" height="400" />
 
-Here are some ideas to get you started:
+<img height="140em" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertaassis&show_icons=true&layout=compact&theme=radical" height="400" width="345"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+[linkedin]: https://www.linkedin.com/in/roberta-assis-carvalho
