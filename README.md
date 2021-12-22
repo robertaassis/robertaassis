@@ -1,4 +1,4 @@
-### Oi! Sou a Roberta! 👋
+### Oi, sou a Roberta! 👋
 
 ## Atualmente sou desenvolvedora WEb
 - 🎓 Estou terminando a graduação em Ciência da Computação na UFG.
