@@ -1,11 +1,8 @@
-### Fala galera! Sou o Ben 👋
+### Oi! Sou a Roberta! 👋
 
-## Sou desenvolvedor fullstack!!
-- 👨‍💻 Pronome: Ela/Dela
+## Atualmente sou desenvolvedora WEb
 - 🎓 Estou terminando a graduação em Ciência da Computação na UFG.
-- 💻 Eterno aprendiz das tecnologias.
-- 🥰 Eu amo cachorros 🐕
-- 💬 Pergunte-me sobre qualquer coisa
+- 💻 Eterna aprendiz das tecnologias.
 
 ### Fale comigo no linkedin!!
 [<img align="left" alt="Roberta | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
