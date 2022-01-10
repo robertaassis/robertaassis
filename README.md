@@ -1,6 +1,6 @@
 ### Oi, sou a Roberta! 👋
 
-## Atualmente sou desenvolvedora Web
+## Atualmente, sou desenvolvedora Web.
 - 🎓 Estou terminando a graduação em Ciência da Computação na UFG.
 - 💻 Eterna aprendiz das tecnologias.
 
