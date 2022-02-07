@@ -1,7 +1,7 @@
 ### Oi, sou a Roberta! 👋
 
 ## Abaixo são alguns projetos que fiz:
-- https://lesgastronomia.com.br/ (Ecommerce)
+- https://lesgastronomia.com.br/ (E-commerce)
 - https://barretoimoveisgo.com.br/
 - https://madripediatria.com.br/
 
