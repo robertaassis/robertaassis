@@ -1,5 +1,10 @@
 ### Oi, sou a Roberta! 👋
 
+## Abaixo são alguns projetos que fiz:
+- https://lesgastronomia.com.br/ (Ecommerce)
+- https://barretoimoveisgo.com.br/
+- https://madripediatria.com.br/
+
 ## Atualmente, sou desenvolvedora Web.
 - 🎓 Estou terminando a graduação em Ciência da Computação na UFG.
 - 💻 Eterna aprendiz das tecnologias.
