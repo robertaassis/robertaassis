@@ -13,4 +13,4 @@
 [<img align="left" alt="Roberta | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 <br />
 <br />
-[linkedin]: https://www.linkedin.com/in/roberta-assis-carvalho
+https://www.linkedin.com/in/roberta-assis-carvalho
