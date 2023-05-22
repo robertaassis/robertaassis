@@ -5,7 +5,7 @@
 - https://madripediatria.com.br/
 
 ## Atualmente, sou desenvolvedora Web.
-- 🎓 Estou terminando a graduação em Ciência da Computação na UFG.
+- 🎓 Estou terminando a graduação em Sistemas de informação na UFG.
 - 💻 Eterna aprendiz das tecnologias.
 
 ### Fale comigo no linkedin!!
